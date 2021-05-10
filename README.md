@@ -1,7 +1,7 @@
 # banjman81.github.io
 ## My Name is Ban
 ![alt text](IMG_3156.jpg "Logo Title Text 1")
-  * In this picture I am holding a ***lavarock*** on the coast of Oahu
+  In this picture I am holding a ***lavarock*** on the coast of Oahu
   * My friends call me **Ben**
   * I am 24y/o
   * I am a veteran of US Army and currently serving in the USAF reserve
